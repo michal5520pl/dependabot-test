@@ -4,5 +4,4 @@ updates:
     directories:
       - "/ubi*"
     schedule:
-      interval: "cron"
-      cronjob: "*/5 * * * *"
+      interval: "daily"
